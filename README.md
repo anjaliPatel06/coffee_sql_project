@@ -48,4 +48,7 @@ The goal of this project is to analyze the sales data of Monday Coffee, a compan
     2.Highest total number of customers, which is 68.
     3.Highest total number of customers, which is 68.
 
-    
+    City 3 : Jaipur
+    1.Highest number of customers, which is 69.
+    2.Average rent per customer is very low at 156.
+    3.Average sales per customer is better at 11.6k.
